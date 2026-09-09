@@ -17,7 +17,7 @@ armazenar informações sensíveis ou individuais de estudantes.
 - Emanuel Rizzo - RA: 26002943-2
 
 ## Documentação
-- [Documento da 1ª entrega (pdf)](primeira-entrega.docx)
+- [Documento da 1ª entrega (docx)](primeira-entrega.docx)
 
 ## Escopo mínimo do sistema
 1. Cadastrar ação (código, escola, tema, data prevista, público-alvo, responsável, quantidade prevista).
