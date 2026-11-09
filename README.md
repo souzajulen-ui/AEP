@@ -51,14 +51,23 @@ gcc pse_em_acao.c -o pse_em_acao
 - Laços `for` percorrem os vetores para buscar códigos, pesquisar e gerar o resumo.
 
 ## Planejamento das sprints
-| Sprint | Semana | Foco |
-|---|---|---|
-| 1 | Semana 1 | Levantamento, escopo, contextualização e fluxograma geral |
-| 2 | Semana 2 | Modelagem dos dados e pseudocódigos |
-| 3 | Semana 3 | Menu principal e cadastro |
-| 4 | Semana 4 | Listagem e pesquisa |
-| 5 | Semana 5 | Atualização de situação e resumo geral |
-| 6 | Semana 6 | Testes, documentação e apresentação final |
+| Sprint | Semana | Foco principal | Entrega da semana |
+|---|---|---|---|
+| 1 | Semana 1 | Levantamento de requisitos, escopo, contextualização e fluxograma geral | Documento escrito (1ª entrega) |
+| 2 | Semana 2 | Modelagem da estrutura de dados (struct Acao) e pseudocódigos das operações | Fluxogramas detalhados e pseudocódigos revisados |
+| 3 | Semana 3 | Revisão final da produção textual, dos requisitos e organização do repositório GitHub | Documento escrito completo e GitHub organizado (1ª entrega) |
+| 4 | Semana 4 | Definição da estrutura do projeto em C, constantes, struct Acao e vetor de ações | Esqueleto do projeto em C no repositório |
+| 5 | Semana 5 | Implementação do menu principal com estrutura de repetição e leitura de opção | Menu funcional no código-fonte |
+| 6 | Semana 6 | Testes integrados, documentação do código e do README, ensaio da apresentação | Sistema final, documentação e apresentação |
+| 7 | Semana 7 | Implementação da função listar ações, com apresentação organizada dos registros | Código-fonte parcial no repositório |
+| 8 | Semana 8 | Implementação da função pesquisar ação por código, escola e tema | Código-fonte parcial no repositório |
+| 9 | Semana 9 | Implementação da função atualizar situação, incluindo o registro da quantidade efetiva de participantes | Código-fonte parcial no repositório |
+| 10 | Semana 10 | Implementação da função gerar resumo, com totais por situação e percentual de participação | Sistema funcional completo (todas as 6 funcionalidades) |
+| 11 | Semana 11 | Testes integrados e tratamento de situações como registro inexistente e limite de armazenamento atingido | Registro de testes realizados |
+| 12 | Semana 12 | Elaboração do diagrama de casos de uso e descrição dos casos de uso principais | Diagrama e descrições de casos de uso |
+| 13 | Semana 13 | Elaboração do manual do usuário, com instruções de compilação, execução e capturas de tela | Manual do usuário com capturas de tela |
+| 14 | Semana 14 | Revisão geral do código-fonte, nomes significativos, comentários, README e considerações finais | Documento final revisado e repositório atualizado |
+| 15 | Semana 15 | Gravação, edição e revisão do vídeo de apresentação; conferência de todos os entregáveis | Sistema final, documentação e vídeo de apresentação (2ª entrega) |
 
 ## Limitações
 - Os dados ficam apenas na memória e são perdidos ao fechar o programa.
