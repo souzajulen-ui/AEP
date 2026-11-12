@@ -78,5 +78,8 @@ gcc pse_em_acao.c -o pse_em_acao
 - [Documento da 1ª entrega (pdf)](primeiraentrega.pdf)
 - [Documento final da 2ª entrega](segundaentrega.pdf)
 
+## Vídeo de apresentação
+▶️ [Assista ao vídeo no YouTube](https://youtu.be/KvIuRn5yuu8?is=Al4ntTNXUJ2HBFN3)
+
 ## Status
 ✅ Concluído — 2ª entrega: sistema funcional, documentação e vídeo de apresentação.
