@@ -54,9 +54,9 @@ gcc pse_em_acao.c -o pse_em_acao
 | Sprint | Semana | Foco principal | Entrega da semana |
 |---|---|---|---|
 | 1 | Semana 1 | Levantamento de requisitos, escopo, contextualização e fluxograma geral | Documento escrito (1ª entrega) |
-| 2 | Semana 2 | Modelagem da estrutura de dados (struct Acao) e pseudocódigos das operações | Fluxogramas detalhados e pseudocódigos revisados |
+| 2 | Semana 2 | Modelagem da estrutura de dados (vetores) e pseudocódigos das operações | Fluxogramas detalhados e pseudocódigos revisados |
 | 3 | Semana 3 | Revisão final da produção textual, dos requisitos e organização do repositório GitHub | Documento escrito completo e GitHub organizado (1ª entrega) |
-| 4 | Semana 4 | Definição da estrutura do projeto em C, constantes, struct Acao e vetor de ações | Esqueleto do projeto em C no repositório |
+| 4 | Semana 4 | Definição da estrutura do projeto em C, constantes e vetores de dados | Esqueleto do projeto em C no repositório |
 | 5 | Semana 5 | Implementação do menu principal com estrutura de repetição e leitura de opção | Menu funcional no código-fonte |
 | 6 | Semana 6 | Testes integrados, documentação do código e do README, ensaio da apresentação | Sistema final, documentação e apresentação |
 | 7 | Semana 7 | Implementação da função listar ações, com apresentação organizada dos registros | Código-fonte parcial no repositório |
